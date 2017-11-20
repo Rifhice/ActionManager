@@ -1,0 +1,2 @@
+# ActionManager
+Project carried out during an internship. It was divided into two projects, the design and implementation of a java-based workflow system made for use in a greater project named ―Cybersecurity analysis Platform‖, the software will give a needed help to support collaborative analysis and reapplication of intelligent tools. This software was fully programed using eclipse. The second project is the programming of intelligent tools capable of being used by the software to prove the utility of such software in a professional environment.
